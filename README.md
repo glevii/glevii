@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Georgina!</h1>
+<img align="center" src="profileheader.JPG" alt="herobanner">
 
 <p align="left"> I'm an apsiring full stack web developer, fine tuning my skills and abilities and enthusiastic to learn!</p>
 
